@@ -1,6 +1,7 @@
 package Bot::IRC::X::Time;
 # ABSTRACT: Bot::IRC plugin for some time functions
 
+use 5.012;
 use strict;
 use warnings;
 
