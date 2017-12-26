@@ -1,6 +1,7 @@
 Revision history for Bot::IRC::X::Time
 
 {{$NEXT}}
+        - Adding Perl versions to test; annual general update for 2018
 
 1.01      2016-11-10 20:27:58-08:00 America/Los_Angeles
         - First version, released on an unsuspecting world
