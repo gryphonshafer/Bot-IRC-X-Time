@@ -92,7 +92,7 @@ __END__
 =begin :badges
 
 =for markdown
-[![build](https://github.com/gryphonshafer/Bot-IRC-X-Time/workflows/build/badge.svg)](https://github.com/gryphonshafer/Bot-IRC-X-Time/actions?query=workflow%3Abuild)
+[![test](https://github.com/gryphonshafer/Bot-IRC-X-Time/workflows/test/badge.svg)](https://github.com/gryphonshafer/Bot-IRC-X-Time/actions?query=workflow%3Atest)
 [![codecov](https://codecov.io/gh/gryphonshafer/Bot-IRC-X-Time/graph/badge.svg)](https://codecov.io/gh/gryphonshafer/Bot-IRC-X-Time)
 
 =end :badges
