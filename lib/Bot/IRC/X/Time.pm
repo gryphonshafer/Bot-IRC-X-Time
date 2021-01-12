@@ -2,8 +2,7 @@ package Bot::IRC::X::Time;
 # ABSTRACT: Bot::IRC plugin for some time functions
 
 use 5.014;
-use strict;
-use warnings;
+use exact;
 
 use Date::Parse 'str2time';
 use DateTime;
