@@ -1,6 +1,7 @@
 Revision history for Bot::IRC::X::Time
 
 {{$NEXT}}
+        - Override some minimum version reqs in dist.ini
 
 1.02      2021-01-12 08:40:31-08:00 America/Los_Angeles
         - Migrate to Test2::V0 and add exact
