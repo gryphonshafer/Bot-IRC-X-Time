@@ -4,7 +4,7 @@ Bot::IRC::X::Time - Bot::IRC plugin for some time functions
 
 # VERSION
 
-version 1.04
+version 1.05
 
 [![test](https://github.com/gryphonshafer/Bot-IRC-X-Time/workflows/test/badge.svg)](https://github.com/gryphonshafer/Bot-IRC-X-Time/actions?query=workflow%3Atest)
 [![codecov](https://codecov.io/gh/gryphonshafer/Bot-IRC-X-Time/graph/badge.svg)](https://codecov.io/gh/gryphonshafer/Bot-IRC-X-Time)
